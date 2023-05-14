@@ -3,7 +3,6 @@
 
 - 💬 Ask me about `Anime` and `games`
 - 📫 How to reach me: [Telegram](https://t.me/asif987patel), [Instagram](https://www.instagram.com/asif987patel/)
-- 😄 Pronouns: `He/Him`
 - ⚡ Fun fact: `I make memes`
 
 <img src="https://yc-stats.vercel.app/api?username=mazimez&show_icons=true&count_private=true&border_radius=12&title_color=58a6ff&bg_color=161b22&show_owner=true&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="Asif Patel's GitHub stats" />
