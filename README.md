@@ -16,6 +16,9 @@
 
 <details>
  <summary><b>Currently Working on</b></summary><br/>
+ <a href="https://github.com/mazimez/card-games-utils">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=mazimez&repo=card-games-utils&show_icons=true&count_private=false&border_radius=12&title_color=58a6ff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="Asif Patel is currently working on card-games-utils" />
+ </a>
  <a href="https://github.com/mazimez/laravel-hands-on">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mazimez&repo=laravel-hands-on&show_icons=true&count_private=false&border_radius=12&title_color=58a6ff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="Asif Patel is currently working on laravel-hands-on" />
   </a>
