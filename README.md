@@ -1,4 +1,4 @@
-### Hey, <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="24px">
+### Hey, <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="24px">
 
 
 - 💬 Ask me about `Anime` and `games`
